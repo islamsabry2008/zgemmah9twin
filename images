@@ -1,6 +1,6 @@
 OpenATV_6.4_E2_current http://images.mynonpublic.com/openatv/6.4/current.php?open=zgemmah9twin
 OpenATV_7.0_E2_Beta http://images.mynonpublic.com/openatv/7.0/current.php?open=zgemmah9twin
-OpenPLi_8.1_E2_current http://downloads.openpli.org/emmc/h9combo
+OpenPLi_8.x_E2_current http://downloads.openpli.org/emmc/h9combo
 OpenPLi_7.3_E2_current https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20211027_emmc.zip
 OpenPLi_Develop_E2_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20211106_emmc.zip
 OpenViX_5.4.16_E2 https://www.openvix.co.uk/openvix-builds/zgemmah9combo/openvix-5.4.016.release-zgemmah9combo_mmc.zip
@@ -11,7 +11,7 @@ OpenSPA_7.x_E2_current https://openspa.webhop.info/current.php?open=Descarga%20d
 Hyperion_7.1_E2_current http://e2.pkteam.pl/bootmenu/hyperion-7.1-zgemmah9twin-current_mmc.zip
 Hyperion_8_E2_current http://e2.pkteam.pl/bootmenu/hyperion-8-zgemmah9twin-current_mmc.zip
 EGAMI_9.x_E2_PY2 http://image.egami-image.com/image-archive/current.php?open=zgemmah9twin
-EGAMI_10.x_E2_current http://image.egami-image.com/current.php?open=zgemmah9twin
+EGAMI_10.x_E2_Current_PY3 http://image.egami-image.com/current.php?open=zgemmah9twin
 Openbh-4.4.022_E2_current https://ia601501.us.archive.org/11/items/openbh-4.4.022.release-zgemmah9twin_mmc/openbh-4.4.022.release-zgemmah9twin_mmc.zip
 Openbh-4.4.023_E2_current https://ia601505.us.archive.org/14/items/openbh-4.4.023.release-zgemmah9twin_mmc/openbh-4.4.023.release-zgemmah9twin_mmc.zip 
 Openbh-4.5.028_E2_current https://ia601400.us.archive.org/27/items/openbh-4.5.028.release-zgemmah9twin_mmc/openbh-4.5.028.release-zgemmah9twin_mmc.zip
@@ -25,6 +25,7 @@ OpenDroid_7.1_20211103_E2 https://ia801501.us.archive.org/32/items/opendroid-7.1
 OpenNFR_6.3_E2_current https://dev.nachtfalke.biz/nfr/feeds/6.3/images/current.php?open=zgemmah9combo
 OpenNFR_6.4_E2_current https://dev.nachtfalke.biz/nfr/feeds/6.4/images/current.php?open=zgemmah9combo
 OpenNFR_6.5_E2_current https://dev.nachtfalke.biz/nfr/feeds/6.5/images/current.php?open=zgemmah9combo
+OpenNFR_7.0_E2_current https://dev.nachtfalke.biz/nfr/feeds/7.0/images/current.php?open=zgemmah9combo
 Openvision_11.2_r416 https://ia601505.us.archive.org/29/items/openvision-e2-extralang-py2-11.2-r416-h9combo_usb/openvision-e2-extralang-py2-11.2-r416-h9combo_usb.zip
 OpenVision_11.2_E2_develop https://images.openvision.dedyn.io/current.php?open=h9combo&type=usb
 OpenEsi_9_E2_current http://www.openesi.eu/images/Zgemma/zgemmah9twin/openesi-9.0-zgemmah9twin-20190923_mmc.zip
