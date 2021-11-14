@@ -2,7 +2,7 @@ OpenATV_6.4_E2_current http://images.mynonpublic.com/openatv/6.4/current.php?ope
 OpenATV_7.0_E2_Beta http://images.mynonpublic.com/openatv/7.0/current.php?open=zgemmah9twin
 OpenPLi_8.x_E2_current http://downloads.openpli.org/emmc/h9combo
 OpenPLi_7.3_E2_current https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20211110_emmc.zip
-OpenPLi_Develop_E2_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20211110_emmc.zip
+OpenPLi_Develop_E2_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20211113_emmc.zip
 OpenViX_5.4.16_E2 https://www.openvix.co.uk/openvix-builds/zgemmah9combo/openvix-5.4.016.release-zgemmah9combo_mmc.zip
 OpenViX_6.x_E2_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
 OpenHDF_6.5_E2_current http://v65.hdfreaks.cc/current.php?open=zgemmah9twin
@@ -30,6 +30,7 @@ Openvision_11.2_r416 https://ia601505.us.archive.org/29/items/openvision-e2-extr
 OpenVision_11.2_E2_develop https://images.openvision.dedyn.io/current.php?open=h9combo&type=usb
 OpenEsi_9_E2_current http://www.openesi.eu/images/Zgemma/zgemmah9twin/openesi-9.0-zgemmah9twin-20190923_mmc.zip
 SatLodge_8.1_E2_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-8.1-stable-07-10-2021-h9combo_emmc.zip
+SatLodge_8.1_unstable_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-8.1-unstable-h9combo-14-11-2021_emmc.zip
 Nonsolosat_25_E2_current https://www.nonsolosat.net/upload/Image-Nonsolosat/Zgemma%20Star/Nonsolosat%2025/Nonsolosat-25-H9%20Twin_emmc.zip
 Areadeltasat_10.2_R7_current https://ia601500.us.archive.org/16/items/areadeltasat-10.2-r7-h9combo_emmc/areadeltasat-10.2-r7-h9combo_emmc.zip
 Satdreamgr_8_current https://ia801401.us.archive.org/28/items/satdreamgr-8-h9combo_emmc_20210407/satdreamgr-8-h9combo_emmc_20210407.zip
