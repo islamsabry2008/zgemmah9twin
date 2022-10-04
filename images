@@ -2,7 +2,7 @@ OpenATV_6.4_E2_EOL https://images.mynonpublic.com/openatv/6.4/current.php?open=z
 OpenATV_7.0_E2_RELEASE https://images.mynonpublic.com/openatv/7.0/current.php?open=zgemmah9twin
 OpenATV_7.1_E2_BETA https://images.mynonpublic.com/openatv/7.1/current.php?open=zgemmah9twin
 OpenPLi_8.3_PY2_current http://downloads.openpli.org/emmc/h9combo
-OpenPLi_develop_PY3.9_20221001 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20221002_emmc.zip
+OpenPLi_develop_PY3.9_20221001 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20221004_emmc.zip
 OpenPLi_7.3_PY2_20220914 https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20220914_emmc.zip
 OpenPLi_chromium_PY3_20220406 https://ia601501.us.archive.org/16/items/openpli-chromium-Python3-h9combo_20220406/openpli-chromium-Python3-h9combo_20220406.zip
 OpenPLi_9_PY3_Special https://download942.mediafire.com/bdbuam7s11rg/qder8dndais8oqh/openpli-9.0-py3-h9combo_emmc.zip
@@ -38,7 +38,7 @@ OpenDroid_7.1_chromium_PY3.10 https://ia601403.us.archive.org/20/items/opendroid
 OpenNFR_6.4_R006 https://archive.org/download/opennfr-6.4-zgemmah9combo-r006-20210627_mmc/opennfr-6.4-zgemmah9combo-r006-20210627_mmc.zip
 OpenNFR_7.0_R002_20220329 https://ia601509.us.archive.org/31/items/opennfr-7.0-zgemmah9twin-r002-20220329_mmc/opennfr-7.0-zgemmah9twin-r002-20220329_mmc.zip
 OpenVision_12.2_PY2_current https://images.openvision.dedyn.io/current.php?open=h9combo&type=usb
-OpenVision_12.2_PY3.10_current https://images.openvision.dedyn.io/12.2/Develop/Vision/Zgemma/h9combo/openvision-e2-develop-py3.10-12.2-r478-h9combo-20220924_usb.zip
+OpenVision_12.2_PY3.10_current https://images.openvision.dedyn.io/12.2/Develop/Vision/Zgemma/h9combo/openvision-e2-develop-py3.10-12.2-r480-h9combo-20221004_usb.zip
 OpenVision_12.2_PY3.10_CMD https://images.openvision.dedyn.io/12.2/CMD/Zgemma/h9combo/openvision-cmd-release-py3.10-12.2-r478-h9combo-20220923_usb.zip
 Cobralibero_PY2_20220411 https://ia801506.us.archive.org/1/items/cobralibero-Team-h9combo_20220411_emmc/cobralibero-Team-h9combo_20220411_emmc.zip
 SatLodge_8.2_PY2_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-8.2-stable-h9combo_28-07-2022_emmc.zip
