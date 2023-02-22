@@ -7,8 +7,8 @@ OpenATV_7.1_E2_EOL https://images.mynonpublic.com/openatv/7.1/current.php?open=z
 OpenPLi_8.3_PY2_current http://downloads.openpli.org/emmc/h9combo
 OpenPLi_8.3_PY2_TimeShift http://linuxsat5.webhop.info/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-h9combo_emmc.zip
 OpenPLi_8.3_PY2_BackUp https://ia904700.us.archive.org/24/items/openpli-8.3-release-h9combo-20230116_backup/openpli-8.3-release-h9combo-20230116_backup.zip
-OpenPLi_develop_PY3.9_20230220 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20230220_emmc.zip
-OpenPLi_7.3_PY2_20230203 https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20230203_emmc.zip
+OpenPLi_develop_PY3.9_20230220 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20230222_emmc.zip
+OpenPLi_7.3_PY2_20230203 https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20230222_emmc.zip
 OpenPLi_chromium_PY3_20220406 https://ia601501.us.archive.org/16/items/openpli-chromium-Python3-h9combo_20220406/openpli-chromium-Python3-h9combo_20220406.zip
 OpenPLi_9_PY3_TimeShift http://linuxsat5.webhop.info/OPENPLI-9.0-PY3-TIMESHIFT/openpli-9.0-h9combo_emmc.zip 
 OpenViX_6.x_PY3.11_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
@@ -58,7 +58,7 @@ OpenDroid_7.1_chromium_PY3.10 https://ia601403.us.archive.org/20/items/opendroid
 OpenNFR_6.4_R006 https://archive.org/download/opennfr-6.4-zgemmah9combo-r006-20210627_mmc/opennfr-6.4-zgemmah9combo-r006-20210627_mmc.zip
 OpenNFR_7.0_R005_20221008 https://ia601506.us.archive.org/20/items/opennfr-7.0-zgemmah9twin-r005-20221008_multi/opennfr-7.0-zgemmah9twin-r005-20221008_multi.zip
 OpenVision_12.2_PY3.11_current https://images.openvision.dedyn.io/current.php?open=h9combo&type=usb
-OpenVision_12.2_PY2.7_current https://images.openvision.dedyn.io/12.2/EOL/Vision/Zgemma/h9combo/openvision-e2-develop-py2.7-12.2-r520-h9combo-20230116_usb.zip
+OpenVision_12.2_PY2.7_current https://images.openvision.dedyn.io/12.2/EOL/Vision/Zgemma/h9combo/openvision-e2-develop-py2.7-12.2-r523-h9combo-20230222_usb.zip
 OpenVision_12.2_PY3.11_CMD https://images.openvision.dedyn.io/12.2/Stable/CMD/Zgemma/h9combo/openvision-cmd-release-py3.11-12.2-r523-h9combo-20230220_usb.zip
 Cobralibero_PY2_19022023 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/Zgemma%20Star/19.Feb.2023/cobraliberosat-Team-h9combo_emmc.zip
 SatLodge_1.0_PY3_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-1.0p3-h9combo-30-01-2023_emmc.zip
