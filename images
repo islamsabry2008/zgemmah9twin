@@ -11,7 +11,7 @@ OpenPLi_8.3_PY2_current http://downloads.openpli.org/emmc/h9combo
 OpenPLi_8.3_PY2_TimeShift http://linuxsat5.webhop.info/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-h9combo_emmc.zip
 OpenPLi_8.3_PY2_BackUp https://ia904700.us.archive.org/24/items/openpli-8.3-release-h9combo-20230116_backup/openpli-8.3-release-h9combo-20230116_backup.zip
 OpenPLi_develop_PY3.9_20230522 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20230522_emmc.zip
-OpenPLi_7.3_PY2_20230510 https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20230524_emmc.zip
+OpenPLi_7.3_PY2_20230510 https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20230526_emmc.zip
 OpenPLi_chromium_PY3_20220406 https://ia601501.us.archive.org/16/items/openpli-chromium-Python3-h9combo_20220406/openpli-chromium-Python3-h9combo_20220406.zip
 OpenPLi_9_PY3_TimeShift http://linuxsat5.webhop.info/OPENPLI-9.0-PY3-TIMESHIFT/openpli-9.0-h9combo_emmc.zip 
 OpenViX_6.x_PY3.11_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
@@ -45,6 +45,7 @@ EGAMI_10.2_E2_R02 https://ia601407.us.archive.org/13/items/egami-10.2-r02-zgemma
 EGAMI_10.2_E2_R06 https://ia904704.us.archive.org/1/items/egami-10.2-r06-zgemmah9twin-20221113_multi/egami-10.2-r06-zgemmah9twin-20221113_multi.zip
 EGAMI_10.3_twin_current http://image.egami-image.com/10.3/current.php?open=zgemmah9twin
 EGAMI_10.3_r5_twin_BU https://ia904701.us.archive.org/5/items/egami-10.3-r05-zgemmah9twin-backup/egami-10.3-r05-zgemmah9twin-backup.zip
+EGAMI_10.4_E2_twin_current http://image.egami-image.com/10.4/current.php?open=zgemmah9twin
 Openbh-4.4.023_PY2 https://ia601505.us.archive.org/14/items/openbh-4.4.023.release-zgemmah9twin_mmc/openbh-4.4.023.release-zgemmah9twin_mmc.zip 
 Openbh-4.5.031_E2 https://ia801505.us.archive.org/26/items/openbh-4.5.031.release-zgemmah9twin_mmc/openbh-4.5.031.release-zgemmah9twin_mmc.zip
 OpenBh_5.0.013_PY3 https://ia601502.us.archive.org/12/items/openbh-5.0.013.release-zgemmah9twin_mmc/openbh-5.0.013.release-zgemmah9twin_mmc.zip
