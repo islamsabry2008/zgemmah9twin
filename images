@@ -11,8 +11,8 @@ OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=z
 OpenPLi_8.3_PY2_current http://downloads.openpli.org/emmc/h9combo
 OpenPLi_8.3_PY2_TimeShift http://linuxsat5.webhop.info/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-h9combo_emmc.zip
 OpenPLi_8.3_PY2_BackUp https://ia904700.us.archive.org/24/items/openpli-8.3-release-h9combo-20230116_backup/openpli-8.3-release-h9combo-20230116_backup.zip
-OpenPLi_develop_PY3.9_20230627 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20230627_emmc.zip
-OpenPLi_7.3_PY2_20230621 https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20230621_emmc.zip
+OpenPLi_develop_PY3.9_20230630 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20230630_emmc.zip
+OpenPLi_7.3_PY2_20230628 https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20230628_emmc.zip
 OpenPLi_chromium_PY3_20220406 https://ia601501.us.archive.org/16/items/openpli-chromium-Python3-h9combo_20220406/openpli-chromium-Python3-h9combo_20220406.zip
 OpenPLi_9_PY3_TimeShift http://linuxsat5.webhop.info/OPENPLI-9.0-PY3-TIMESHIFT/openpli-9.0-h9combo_emmc.zip 
 OpenViX_6.4_PY3.11.2_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
@@ -61,7 +61,7 @@ OpenBh-5.2.007_PY3.11_current https://ia601600.us.archive.org/31/items/openbh-5.
 OpenBh-5.2.006_PY3.11_Backup https://ia601605.us.archive.org/11/items/openbh-5.2.006_backup_h9combo/openbh-5.2.006_backup_h9combo.zip
 OpenBh-5.2.007_PY3.11_Backup https://ia802601.us.archive.org/23/items/openbh-5.2.007.release-zgemmah9twin_backup/openbh-5.2.007.release-zgemmah9twin_backup.zip
 OpenBH 5.3.001_PY3.11.2_current https://ia902607.us.archive.org/14/items/openbh-5.3.001.release-zgemmah9twin_multi/openbh-5.3.001.release-zgemmah9twin_multi.zip
-PurE2_7.3_PY2_20230622 https://www.pur-e2.club/OU/images/7.3/airdigital/zgemmah9twin-PurE2-7.3-20230622_multi.zip
+PurE2_7.3_PY2_20230630 https://www.pur-e2.club/OU/images/7.3/airdigital/zgemmah9twin-PurE2-7.3-20230630_multi.zip
 PurE2_6.5_PY2_20230517 https://www.pur-e2.club/OU/images/6.5/airdigital/zgemmah9twin-PurE2-6.5-20230517_multi.zip
 PurE2_6.5_PY2_BackUp https://ia601603.us.archive.org/21/items/zgemmah9twin-PurE2-6.5-20230205_backup/zgemmah9twin-PurE2-6.5-20230205_backup.zip
 OpenEight_6.8_20230404_PY2 https://ia902602.us.archive.org/4/items/openeight-6.8-zgemmah9twin-20230404_multi/openeight-6.8-zgemmah9twin-20230404_multi.zip
