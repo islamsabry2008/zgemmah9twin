@@ -11,7 +11,7 @@ OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=z
 OpenPLi_8.3_PY2_current http://downloads.openpli.org/emmc/h9combo
 OpenPLi_8.3_PY2_TimeShift http://linuxsat5.webhop.info/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-h9combo_emmc.zip
 OpenPLi_8.3_PY2_BackUp https://ia904700.us.archive.org/24/items/openpli-8.3-release-h9combo-20230116_backup/openpli-8.3-release-h9combo-20230116_backup.zip
-OpenPLi_develop_PY3.9_20230705 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20230705_emmc.zip
+OpenPLi_develop_PY3.9_20230708 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20230708_emmc.zip
 OpenPLi_7.3_PY2_20230705 https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20230705_emmc.zip
 OpenPLi_chromium_PY3_20220406 https://ia601501.us.archive.org/16/items/openpli-chromium-Python3-h9combo_20220406/openpli-chromium-Python3-h9combo_20220406.zip
 OpenPLi_9_PY3_TimeShift http://linuxsat5.webhop.info/OPENPLI-9.0-PY3-TIMESHIFT/openpli-9.0-h9combo_emmc.zip 
@@ -30,7 +30,8 @@ OpenSPA_8.0.002_BackUp https://ia904702.us.archive.org/20/items/openspa-8.0.002-
 OpenSPA_7.5.005_E2 https://openspa.webhop.info/Descarga%20de%20Im%C3%A1genes/AirDigital/Zgemma%20H9%20Twin/openspa-7.5.005-zgemmah9twin-20220219_mmc.zip
 OpenSPA_7.4.014_PY2 https://openspa.webhop.info/Descarga%20de%20Im%C3%A1genes/AirDigital/Zgemma%20H9%20Twin/openspa-7.4.014-zgemmah9twin-20210408_mmc.zip
 PKT_Hyperion_7.1_PY2 http://e2.pkteam.pl/bootmenu/hyperion-7.1-zgemmah9twin-current_mmc.zip
-PKT_Hyperion_8_PY2_current https://ia902603.us.archive.org/32/items/pkt-hyperion-8-zgemmah-9twin-git-23287-svn-4267/PKT-hyperion-8-zgemmah9twin-git23287_svn4267.zip
+PKT_Hyperion_8_PY2_current http://e2.pkteam.pl/bootmenu/hyperion-8-zgemmah9twin-current_mmc.zip
+PKT_Hyperion_8_PY2_ALT https://ia902603.us.archive.org/32/items/pkt-hyperion-8-zgemmah-9twin-git-23287-svn-4267/PKT-hyperion-8-zgemmah9twin-git23287_svn4267.zip
 PKT_Hyperion_9_ALPHA_current https://ia902600.us.archive.org/19/items/pkt-hyperion-9-zgemmah-9combo-git-24622-svn-4335-alpha/PKT-hyperion-9-zgemmah9combo-git24622_svn4335-ALPHA.zip
 PKT_Hyperion_8_PY2_BackUp https://ia804707.us.archive.org/19/items/pkt-hyperion-8-zgemmah-9twin-git-23287-svn-4267-backup/PKT-hyperion-8-zgemmah9twin-git23287_svn4267-backup.zip
 PKT_Hyperion_8_E2_zukonMOD http://zukon.pl/bootmenu/hyperion-8-zgemmah9twin-current_mmc.zip
