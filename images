@@ -9,7 +9,7 @@ OpenATV_7.0_E2_EOL https://images.mynonpublic.com/openatv/7.0/current.php?open=z
 OpenATV_7.1_E2_EOL https://images.mynonpublic.com/openatv/7.1/current.php?open=zgemmah9twin
 OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=zgemmah9twin
 OpenPLi_8.3_PY2_current http://downloads.openpli.org/emmc/h9combo
-OpenPLi_9-RC_PY2_current https://downloads.openpli.org/builds/h9combo/openpli-9.0-rc-h9combo-20230915_emmc.zip
+OpenPLi_9-RC_PY2_current https://downloads.openpli.org/builds/h9combo/openpli-9.0-rc-h9combo-20230921_emmc.zip
 OpenPLi_develop_PY3.9_20230919 https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20230919_emmc.zip
 OpenPLi_7.3_PY2_20230726 https://downloads.openpli.org/builds/h9combo/openpli-7.3-release-h9combo-20230726_emmc.zip
 OpenPLi_8.3_PY2_TimeShift http://linuxsat5.webhop.info/OPENPLI-8.3-TIMESHIFT-2023/openpli-8.3-h9combo_emmc.zip
@@ -42,9 +42,6 @@ Hyperion_9.1_Py310_zukonMOD http://zukon.pl/bootmenu/hyperion-9-1-zgemmah9combo-
 Hyperion_9.2_Py311_C_zukonMOD http://zukon.pl/bootmenu/hyperion-9-2-zgemmah9combo-current_mmc.zip
 Hyperion_9.2_Py311_T_zukonMOD http://zukon.pl/bootmenu/hyperion-9-2-zgemmah9twin-current_mmc.zip
 Hyperion_9.2_BackUp https://ia801600.us.archive.org/16/items/pkt-hyperion-9.2-h-9combo-zukon-mod/PKT-hyperion-9.2_h9combo_zukonMOD.zip
-EGAMI_9.x_E2_PY2 http://image.egami-image.com/9.0.6/current.php?open=zgemmah9twin
-EGAMI_10.0_PY3.9_PY3 http://image.egami-image.com/10.0/current.php?open=zgemmah9twin
-EGAMI_10.1_E2_PY3.10 http://image.egami-image.com/10.1/current.php?open=zgemmah9twin
 EGAMI_10.2_E2_twin_current http://image.egami-image.com/10.2/current.php?open=zgemmah9twin
 EGAMI_10.2_E2_combo_current http://image.egami-image.com/10.2/current.php?open=zgemmah9combo
 EGAMI_10.2_E2_R02 https://ia601407.us.archive.org/13/items/egami-10.2-r02-zgemmah9twin-20220927_mmc/egami-10.2-r02-zgemmah9twin-20220927_mmc.zip
@@ -63,7 +60,7 @@ OpenBh_5.1.012_PY3.10_BackUp https://ia904709.us.archive.org/0/items/openbh-5.1.
 OpenBh-5.2.007_PY3.11_current https://ia601600.us.archive.org/31/items/openbh-5.2.007.release-zgemmah9twin_multi/openbh-5.2.007.release-zgemmah9twin_multi.zip
 OpenBh-5.2.007_PY3.11_Backup https://ia802601.us.archive.org/23/items/openbh-5.2.007.release-zgemmah9twin_backup/openbh-5.2.007.release-zgemmah9twin_backup.zip
 OpenBH 5.3.006_current https://ia600509.us.archive.org/12/items/openbh-5.3.006.release-zgemmah9twin_multi/openbh-5.3.006.release-zgemmah9twin_multi.zip
-PurE2_7.3_PY3_20230911 https://www.pur-e2.club/OU/images/7.3/airdigital/zgemmah9twin-PurE2-7.3-20230911_multi.zip
+PurE2_7.3_PY3_20230921 https://www.pur-e2.club/OU/images/7.3/airdigital/zgemmah9twin-PurE2-7.3-20230921_multi.zip
 PurE2_6.5_PY2_20230517 https://www.pur-e2.club/OU/images/6.5/airdigital/zgemmah9twin-PurE2-6.5-20230517_multi.zip
 PurE2_6.5_PY2_BackUp https://ia601603.us.archive.org/21/items/zgemmah9twin-PurE2-6.5-20230205_backup/zgemmah9twin-PurE2-6.5-20230205_backup.zip
 OpenEight_6.8_20230404_PY2 https://ia902602.us.archive.org/4/items/openeight-6.8-zgemmah9twin-20230404_multi/openeight-6.8-zgemmah9twin-20230404_multi.zip
