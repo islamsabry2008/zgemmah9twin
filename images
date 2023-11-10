@@ -9,7 +9,7 @@ OpenATV_7.1_E2_EOL https://images.mynonpublic.com/openatv/7.1/current.php?open=z
 OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=zgemmah9twin
 OpenPLi_9.0_current http://downloads.openpli.org/emmc/h9combo
 OpenPLi_9.0_Timeshift_Fix http://ipkinstall.ath.cx/openpli-9.0/openpli-9.0-h9combo_emmc.zip
-OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20231109_emmc.zip
+OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20231110_emmc.zip
 OpenPLi_8.3_PY2 https://downloads.openpli.org/builds/h9combo/openpli-8.3-release-h9combo-20231109_emmc.zip
 OpenPLi_8.3_PY2_BackUp https://ia904700.us.archive.org/24/items/openpli-8.3-release-h9combo-20230116_backup/openpli-8.3-release-h9combo-20230116_backup.zip
 OpenPLi_chromium_PY3_20220406 https://ia601501.us.archive.org/16/items/openpli-chromium-Python3-h9combo_20220406/openpli-chromium-Python3-h9combo_20220406.zip
@@ -79,7 +79,7 @@ OpenVision_12.2_PY2.7_EOL https://ia902609.us.archive.org/9/items/openvision-e2-
 OpenVision_13.1_PY3.11.4_CMD https://images.openvision.dedyn.io/13.1/Stable/CMD/Zgemma/h9combo/openvision-cmd-release-py3.11-13.1-r544-h9combo-20230613_usb.zip
 Cobralibero_9_20231007 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/Zgemma%20Star/Zgemma%20Star%209.0/07.10.2023/cobraliberosat-9.0-h9combo_emmc.zip
 Cobralibero_PY3_20230715 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/zgemma%20star%20py3/15.07.2023/cobraliberosat-PY3-h9combo_emmc.zip
-Cobralibero_PY2_20230715 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/Zgemma%20Star/15.07.2023/cobraliberosat-Team-h9combo_emmc.zip
+Cobralibero_PY2_20231110 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/Zgemma%20Star/Zgemma%20Star%208.3/10.11.2023/cobraliberosat-Team-h9combo_emmc.zip
 SatLodge_9.0_PY3_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-9.0a-h9combo_emmc.zip
 SatLodge_2.0_PY3_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-2.0p3-h9combo-01-07-2023_emmc.zip
 SatLodge_8.2_PY2_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-8.2-stable-h9combo_28-07-2022_emmc.zip
