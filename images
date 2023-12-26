@@ -1,6 +1,6 @@
 OpenATV_7.3_E2_RELEASE https://images.mynonpublic.com/openatv/7.3/current.php?open=zgemmah9twin
 OpenATV_7.2_BackUp https://ia904701.us.archive.org/1/items/openatv-7.2-zgemmah9twin-20230108_backup/openatv-7.2-zgemmah9twin-20230108_backup.zip
-OpenATV_7.4_Devel https://ia801602.us.archive.org/8/items/openatv-7.4-devel-zgemmah9twin-20230516_multi/openatv-7.4-devel-zgemmah9twin-20230516_multi.zip
+OpenATV_7.4_Soon https://images.mynonpublic.com/openatv/7.4/current.php?open=zgemmah9twin
 OpenATV_6.4_E2_EOL https://images.mynonpublic.com/openatv/6.4/current.php?open=zgemmah9twin
 OpenATV_6.4_BackUp https://ia601606.us.archive.org/26/items/openatv-6.4-zgemmah9twin-20230408_backup/openatv-6.4-zgemmah9twin-20230408_backup.zip
 OpenATV_6.3_E2_EOL https://images.mynonpublic.com/openatv/6.3/current.php?open=zgemmah9twin
@@ -9,11 +9,12 @@ OpenATV_7.1_E2_EOL https://images.mynonpublic.com/openatv/7.1/current.php?open=z
 OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=zgemmah9twin
 OpenPLi_9.0_current http://downloads.openpli.org/emmc/h9combo
 OpenPLi_9.0_Timeshift_Fix http://ipkinstall.ath.cx/openpli-9.0/openpli-9.0-h9combo_emmc.zip
-OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20231219_emmc.zip
+OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20231225_emmc.zip
 OpenPLi_8.3_PY2 https://downloads.openpli.org/builds/h9combo/openpli-8.3-release-h9combo-20231221_emmc.zip
 OpenPLi_8.3_PY2_BackUp https://ia904700.us.archive.org/24/items/openpli-8.3-release-h9combo-20230116_backup/openpli-8.3-release-h9combo-20230116_backup.zip
 OpenPLi_chromium_PY3_20220406 https://ia601501.us.archive.org/16/items/openpli-chromium-Python3-h9combo_20220406/openpli-chromium-Python3-h9combo_20220406.zip
-OpenViX_6.4_PY3.11.2_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
+OpenViX_6.5_Soon http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
+OpenViX_6.4_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
 OpenViX_6.3.007_PY3.11t https://www.openvix.co.uk/openvix-builds/zgemmah9twin/Archives/openvix-6.3.007.release-zgemmah9twin_multi.zip
 Openvix-6.3.002_BackUp https://ia801606.us.archive.org/30/items/openvix-6.3.002.release-zgemmah9twin_backup/openvix-6.3.002.release-zgemmah9twin_backup.zip
 OpenViX_6.2.011_PY3.10_current https://www.openvix.co.uk/openvix-builds/zgemmah9twin/Archives/openvix-6.2.011.release-zgemmah9twin_multi.zip
@@ -39,6 +40,7 @@ Hyperion_9.1_Py310_zukonMOD http://zukon.pl/bootmenu/hyperion-9-1-zgemmah9combo-
 Hyperion_9.2_Py311_C_zukonMOD http://zukon.pl/bootmenu/hyperion-9-2-zgemmah9combo-current_mmc.zip
 Hyperion_9.2_Py311_T_zukonMOD http://zukon.pl/bootmenu/hyperion-9-2-zgemmah9twin-current_mmc.zip
 Hyperion_9.2_BackUp https://ia801600.us.archive.org/16/items/pkt-hyperion-9.2-h-9combo-zukon-mod/PKT-hyperion-9.2_h9combo_zukonMOD.zip
+EGAMI_10.5_E2_Soon http://image.egami-image.com/10.5/current.php?open=zgemmah9twin
 EGAMI_10.4_E2_twin_current http://image.egami-image.com/10.4/current.php?open=zgemmah9twin
 EGAMI_10.4_R13_twin_Backup https://ia801201.us.archive.org/1/items/egami-10.4-r13-zgemmah9twin_isah2_backup/egami-10.4-r13-zgemmah9twin_isah2_backup.zip
 EGAMI_10.2_E2_twin_current http://image.egami-image.com/10.2/current.php?open=zgemmah9twin
@@ -47,6 +49,7 @@ EGAMI_10.2_E2_R02 https://ia601407.us.archive.org/13/items/egami-10.2-r02-zgemma
 EGAMI_10.2_E2_R06 https://ia904704.us.archive.org/1/items/egami-10.2-r06-zgemmah9twin-20221113_multi/egami-10.2-r06-zgemmah9twin-20221113_multi.zip
 EGAMI_10.3_twin_current http://image.egami-image.com/10.3/current.php?open=zgemmah9twin
 EGAMI_10.3_r5_twin_BU https://ia904701.us.archive.org/5/items/egami-10.3-r05-zgemmah9twin-backup/egami-10.3-r05-zgemmah9twin-backup.zip
+OpenBH 5.4.xxx_Soon
 OpenBH 5.3.013_current https://ia601204.us.archive.org/9/items/openbh-5.3.013.release-zgemmah9twin_multi/openbh-5.3.013.release-zgemmah9twin_multi.zip
 Openbh-4.4.023_PY2 https://ia601505.us.archive.org/14/items/openbh-4.4.023.release-zgemmah9twin_mmc/openbh-4.4.023.release-zgemmah9twin_mmc.zip 
 Openbh-4.5.031_E2 https://ia801505.us.archive.org/26/items/openbh-4.5.031.release-zgemmah9twin_mmc/openbh-4.5.031.release-zgemmah9twin_mmc.zip
