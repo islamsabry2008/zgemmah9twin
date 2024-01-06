@@ -10,7 +10,7 @@ OpenATV_7.1_E2_EOL https://images.mynonpublic.com/openatv/7.1/current.php?open=z
 OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=zgemmah9twin
 OpenPLi_9.0_current http://downloads.openpli.org/emmc/h9combo
 OpenPLi_9.0_Timeshift_Fix http://ipkinstall.ath.cx/openpli-9.0/openpli-9.0-h9combo_emmc.zip
-OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240104_emmc.zip
+OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240106_emmc.zip
 OpenPLi_8.3_PY2 https://downloads.openpli.org/builds/h9combo/openpli-8.3-release-h9combo-20240103_emmc.zip
 OpenPLi_8.3_PY2_BackUp https://ia904700.us.archive.org/24/items/openpli-8.3-release-h9combo-20230116_backup/openpli-8.3-release-h9combo-20230116_backup.zip
 OpenPLi_chromium_PY3_20220406 https://ia601501.us.archive.org/16/items/openpli-chromium-Python3-h9combo_20220406/openpli-chromium-Python3-h9combo_20220406.zip
@@ -82,15 +82,15 @@ OpenNFR_7.0_R005_20221008 https://ia601506.us.archive.org/20/items/opennfr-7.0-z
 OpenVision_13.1_PY3.11.4_current https://images.openvision.dedyn.io/current.php?open=h9combo&type=usb
 OpenVision_12.2_PY2.7_EOL https://ia902609.us.archive.org/9/items/openvision-e2-develop-py2.7-12.2-r530-h9combo-20230410_usb/openvision-e2-develop-py2.7-12.2-r530-h9combo-20230410_usb.zip
 OpenVision_13.1_PY3.11.4_CMD https://images.openvision.dedyn.io/13.1/Stable/CMD/Zgemma/h9combo/openvision-cmd-release-py3.11-13.1-r544-h9combo-20230613_usb.zip
-Cobralibero_9_20231222 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/Zgemma%20Star/Zgemma%20Star%209.0/22.12.2023/cobraliberosat-9.0-h9combo_emmc.zip
+Cobralibero_9_20240106 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/Zgemma%20Star/Zgemma%20Star%208.3/06.01.2024/cobraliberosat-Team-h9combo_emmc.zip
 Cobralibero_8.3_PY2_20231217 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/Zgemma%20Star/Zgemma%20Star%208.3/17.12.2023/cobraliberosat-Team-h9combo_emmc.zip
 SatLodge_9.0_PY3_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-9.0b-h9combo_emmc.zip
 SatLodge_2.0_PY3_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-2.0p3-h9combo-01-07-2023_emmc.zip
 SatLodge_8.2_PY2_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-8.2-stable-h9combo_28-07-2022_emmc.zip
 SatLodge_rev_k_unstable https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-rev-k-unstable-h9combo-08-10-2022_emmc.zip
 SatLodge_rev_k1_unstable https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-rev-k1-unstable-h9combo-08-10-2022_emmc.zip
-Nonsolosat_27_PY2_Twin https://www.nonsolosat.net/upload/Image-Nonsolosat/Zgemma%20Star/Nonsolosat%2028/Nonsolosat-28-H9%20Twin_emmc.zip
-Nonsolosat_27_PY2_combo https://www.nonsolosat.net/upload/Image-Nonsolosat/Zgemma%20Star/Nonsolosat%2028/Nonsolosat-28-h9combo_emmc.zip
+Nonsolosat_29_PY3_Twin https://www.nonsolosat.net/upload/Image-Nonsolosat/Zgemma%20Star/Nonsolosat%2029%20PY3/nonsolosat-29-py3-h9%20twin_emmc.zip
+Nonsolosat_28_PY2_Twin https://www.nonsolosat.net/upload/Image-Nonsolosat/Zgemma%20Star/Nonsolosat%2028/Nonsolosat-28-H9%20Twin_emmc.zip
 AREADELTASAT_10.3_r21 https://images.areadeltasat.net/builds/h9combo/areadeltasat-10.3-r21-h9combo_emmc.zip
 Satdreamgr_8_20220104 https://ia801503.us.archive.org/27/items/satdreamgr-8-h9combo_emmc/satdreamgr-8-h9combo_emmc.zip
 Satdreamgr_10_PY3_Test_20220222 https://ia601502.us.archive.org/28/items/satdreamgr-10-h9combo_emmc/satdreamgr-10-h9combo_emmc.zip
