@@ -9,7 +9,7 @@ OpenATV_7.0_E2_EOL https://images.mynonpublic.com/openatv/7.0/current.php?open=z
 OpenATV_7.1_E2_EOL https://images.mynonpublic.com/openatv/7.1/current.php?open=zgemmah9twin
 OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=zgemmah9twin
 OpenPLi_9.0_current http://downloads.openpli.org/emmc/h9combo
-OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240307_emmc.zip
+OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240309_emmc.zip
 OpenPLi_8.3_PY2 https://downloads.openpli.org/builds/h9combo/openpli-8.3-release-h9combo-20240307_emmc.zip
 OpenPLi_8.3_PY2_BackUp https://ia904700.us.archive.org/24/items/openpli-8.3-release-h9combo-20230116_backup/openpli-8.3-release-h9combo-20230116_backup.zip
 OpenPLi_chromium_PY3_20220406 https://ia601501.us.archive.org/16/items/openpli-chromium-Python3-h9combo_20220406/openpli-chromium-Python3-h9combo_20220406.zip
@@ -40,6 +40,7 @@ Hyperion_9.2_Py311_C_zukonMOD http://zukon.pl/bootmenu/hyperion-9-2-zgemmah9comb
 Hyperion_9.2_Py311_T_zukonMOD http://zukon.pl/bootmenu/hyperion-9-2-zgemmah9twin-current_mmc.zip
 Hyperion_9.2_BackUp https://ia801600.us.archive.org/16/items/pkt-hyperion-9.2-h-9combo-zukon-mod/PKT-hyperion-9.2_h9combo_zukonMOD.zip
 EGAMI_10.5_E2_twin_current http://image.egami-image.com/10.5/current.php?open=zgemmah9twin
+EGAMI_10.5_R2_twin_backup https://ia800206.us.archive.org/8/items/egami-10.5-r2-zgemmah9twin-backup/egami-10.5-r2-zgemmah9twin-backup.zip
 EGAMI_10.4_E2_twin_current http://image.egami-image.com/10.4/current.php?open=zgemmah9twin
 EGAMI_10.4_R13_twin_Backup https://ia801201.us.archive.org/1/items/egami-10.4-r13-zgemmah9twin_isah2_backup/egami-10.4-r13-zgemmah9twin_isah2_backup.zip
 EGAMI_10.2_E2_R06 https://ia904704.us.archive.org/1/items/egami-10.2-r06-zgemmah9twin-20221113_multi/egami-10.2-r06-zgemmah9twin-20221113_multi.zip
