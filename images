@@ -8,7 +8,7 @@ OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=z
 OpenATV_6.4_E2_EOL https://images.mynonpublic.com/openatv/6.4/current.php?open=zgemmah9twin
 OpenATV_6.3_E2_EOL https://images.mynonpublic.com/openatv/6.3/current.php?open=zgemmah9twin
 OpenPLi_9.0_current http://downloads.openpli.org/emmc/h9combo
-OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240610_emmc.zip
+OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240611_emmc.zip
 OpenPLi_8.3_PY2 https://downloads.openpli.org/builds/h9combo/openpli-8.3-release-h9combo-20240606_emmc.zip
 OpenViX_6.6_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
 OpenViX_6.5.003 https://www.openvix.co.uk/openvix-builds/zgemmah9twin/Archives/openvix-6.5.003.release-zgemmah9twin_multi.zip
@@ -41,6 +41,7 @@ PKT_Hyperion_9_ALPHA_current https://ia902600.us.archive.org/19/items/pkt-hyperi
 PKT_Hyperion_8_E2_zukonMOD https://bootmenu.zukon.pl/bootmenu/hyperion-8-zgemmah9twin-current_mmc.zip
 PKT_Hyperion_9_2_E2_zukonMOD https://bootmenu.zukon.pl/bootmenu/hyperion-9-2-zgemmah9twin-current_mmc.zip
 PKT_Hyperion_9_3_E2_zukonMOD https://bootmenu.zukon.pl/bootmenu/hyperion-9-3-zgemmah9twin-current_mmc.zip
+PKT_Hyperion_X_E2_zukonMOD https://bootmenu.zukon.pl/bootmenu/hyperion-X-zgemmah9twin-current_multi.zip
 Hyperion_9.2_BackUp https://ia801600.us.archive.org/16/items/pkt-hyperion-9.2-h-9combo-zukon-mod/PKT-hyperion-9.2_h9combo_zukonMOD.zip
 OpenEight_6.8_20230404_PY2 https://ia902602.us.archive.org/4/items/openeight-6.8-zgemmah9twin-20230404_multi/openeight-6.8-zgemmah9twin-20230404_multi.zip
 OpenTR_10.2r2_PY3.9_current https://ia601307.us.archive.org/6/items/opentr-10.2r2-h9combo_emmc/opentr-10.2r2-h9combo_emmc.zip
