@@ -8,8 +8,8 @@ OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=z
 OpenATV_6.4_E2_EOL https://images.mynonpublic.com/openatv/6.4/current.php?open=zgemmah9twin
 OpenATV_6.3_E2_EOL https://images.mynonpublic.com/openatv/6.3/current.php?open=zgemmah9twin
 OpenPLi_9.0_current http://downloads.openpli.org/emmc/h9combo
-OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240710_emmc.zip
-OpenPLi_8.3_PY2 https://downloads.openpli.org/builds/h9combo/openpli-8.3-release-h9combo-20240704_emmc.zip
+OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240711_emmc.zip
+OpenPLi_8.3_PY2 https://downloads.openpli.org/builds/h9combo/openpli-8.3-release-h9combo-20240711_emmc.zip
 OpenViX_6.6_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
 OpenViX_6.5.003 https://www.openvix.co.uk/openvix-builds/zgemmah9twin/Archives/openvix-6.5.003.release-zgemmah9twin_multi.zip
 OpenViX_6.4.011 https://www.openvix.co.uk/openvix-builds/zgemmah9twin/Archives/openvix-6.4.011.release-zgemmah9twin_multi.zip
@@ -57,7 +57,7 @@ OpenVision_13.1_PY3.11.4_current https://images.openvision.dedyn.io/current.php?
 OpenVision_12.2_PY2.7_EOL https://ia902609.us.archive.org/9/items/openvision-e2-develop-py2.7-12.2-r530-h9combo-20230410_usb/openvision-e2-develop-py2.7-12.2-r530-h9combo-20230410_usb.zip
 Cobralibero_9_20240623 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/IMAGE%20%20ZGEMMA/Zgemma%20Star%209.0/23.06.2024/cobraliberosat-9.0-h9combo_emmc.zip
 Cobralibero_8.3_PY2_20240226 https://cobraliberosat.net/UPLOAD/IMAGE-COBRALIBEROSAT/IMAGE%20%20ZGEMMAZ/Zgemma%20Star%208.3/26.02.2024/cobraliberosat-Team-h9combo_emmc.zip
-SatLodge_9.0_PY3_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-9.0c-h9combo_emmc.zip
+SatLodge_9.0_PY3_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-9.0rel-h9combo-11-07-2024_emmc.zip
 SatLodge_8.2_PY2_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-8.2-stable-h9combo_28-07-2022_emmc.zip
 Nonsolosat_33_PY3_Twin https://www.nonsolosat.net/upload/Image-Nonsolosat/Zgemma%20Star/Nonsolosat%2033%20PY3/nonsolosat-33-py3-h9%20twin_emmc.zip
 Nonsolosat_28_PY2_Twin https://www.nonsolosat.net/upload/Image-Nonsolosat/Zgemma%20Star/Nonsolosat%2028/Nonsolosat-28-H9%20Twin_emmc.zip
