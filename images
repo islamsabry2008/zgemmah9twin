@@ -7,8 +7,8 @@ OpenATV_7.2_E2_EOL https://images.mynonpublic.com/openatv/7.2/current.php?open=z
 OpenATV_6.4_E2_EOL https://images.mynonpublic.com/openatv/6.4/current.php?open=zgemmah9twin
 OpenATV_6.3_E2_EOL https://images.mynonpublic.com/openatv/6.3/current.php?open=zgemmah9twin
 OpenPLi_9.0_current http://downloads.openpli.org/emmc/h9combo
-OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240919_emmc.zip
-OpenPLi_8.3_PY2 https://downloads.openpli.org/builds/h9combo/openpli-8.3-release-h9combo-20240922_emmc.zip
+OpenPLi_develop_current https://downloads.openpli.org/builds/h9combo/openpli-develop-h9combo-20240926_emmc.zip
+OpenPLi_8.3_PY2 https://downloads.openpli.org/builds/h9combo/openpli-8.3-release-h9combo-20240926_emmc.zip
 OpenViX_6.6_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twin
 OpenViX_6.5.003 https://www.openvix.co.uk/openvix-builds/zgemmah9twin/Archives/openvix-6.5.003.release-zgemmah9twin_multi.zip
 OpenViX_6.4.011 https://www.openvix.co.uk/openvix-builds/zgemmah9twin/Archives/openvix-6.4.011.release-zgemmah9twin_multi.zip
@@ -61,8 +61,7 @@ SatLodge_9.0_PY3_20240917 https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-
 SatLodge_8.2_PY2_current https://webplus.sat-lodge.it/Zgemma/zgemmah9/satlodge-8.2-stable-h9combo_28-07-2022_emmc.zip
 Nonsolosat_33_PY3_Twin https://www.nonsolosat.net/upload/Image-Nonsolosat/Zgemma%20Star/Nonsolosat%2033%20PY3/nonsolosat-33-py3-h9%20twin_emmc.zip
 Nonsolosat_28_PY2_Twin https://www.nonsolosat.net/upload/Image-Nonsolosat/Zgemma%20Star/Nonsolosat%2028/Nonsolosat-28-H9%20Twin_emmc.zip
-AREADELTASAT_10.3_r22 https://images.areadeltasat.net/builds/h9combo/areadeltasat-10.3-r22-h9combo_emmc.zip
-AREADELTASAT_11.4_r22 https://images.areadeltasat.net/builds/h9combo/areadeltasat-11.4-r24-h9combo_emmc.zip
+AREADELTASAT_13.2_r26 https://images.areadeltasat.net/builds/h9combo/areadeltasat-13.2-r26-h9combo_emmc.zip
 Satdreamgr_8_20220104 https://ia801503.us.archive.org/27/items/satdreamgr-8-h9combo_emmc/satdreamgr-8-h9combo_emmc.zip
 Satdreamgr_10_PY3_20240304 https://ia600202.us.archive.org/10/items/satdreamgr-10-h9combo_emmc_202403/satdreamgr-10-h9combo_emmc.zip
 TANGOSEVO_10012024 https://ia601302.us.archive.org/16/items/h9combo_TANGOSEVO_multiroot_usb_10.01.2024-03.05_mmc/h9combo_TANGOSEVO_multiroot_usb_10.01.2024-03.05_mmc.zip
